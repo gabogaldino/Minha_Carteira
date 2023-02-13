@@ -71,7 +71,7 @@ As part of our development process, we use an automated SAST (Static Application
 ![image](https://user-images.githubusercontent.com/66391286/218505258-364d2c29-19e2-4a64-a235-da99dd9dee8d.png)
 
 
-## 5 User Interface
+## 6 User Interface
 To help us build more modern screens, we use Figma together with a Design System to standardize the components of the product screens. Remembering that these screens were not implemented due to time.
 Here are screenshots created using Figma:
 ![image](https://user-images.githubusercontent.com/66391286/218503603-76fc67e2-d293-4cc5-a309-987c6f725b59.png)
@@ -79,14 +79,14 @@ Here are screenshots created using Figma:
 ![image](https://user-images.githubusercontent.com/66391286/218503789-138c4686-c492-4119-a98a-74a0b98ebb9c.png)
 
 
-## 6 How to run the project:
+## 7 How to run the project:
 
 Install .NET Framework on your machine
 Clone the project repository
 Run the command 'dotnet run' in the terminal, in the project directory
 Open the application in the browser at the address 'https://localhost:5001'
 
-## 7 How to contribute:
+## 8 How to contribute:
 
 Fork the project repository
 Create a branch with your new feature: git checkout -b my-feature
@@ -94,5 +94,5 @@ Commit your changes: git commit -m "feature: My new feature"
 Push your branch: git push origin my-feature
 Open a pull request in the project repository
 
-## 8 License:
+## 9 License:
 This project is licensed under the Apache License 2.0. See the [LICENSE](/LICENSE) file for details.
